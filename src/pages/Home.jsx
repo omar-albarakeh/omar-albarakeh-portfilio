@@ -3,6 +3,7 @@ import Footer from '../components/Footer';
 import Button from '../components/Button';
 import SectionWrapper from '../components/SectionWrapper';
 import AnimatedTitle from '../components/AnimatedTitle';
+import WhatsAppFloatingButton from '../components/WhatsAppFloatingButton';
 
 const Home = () => {
   return (
@@ -19,6 +20,7 @@ const Home = () => {
             <Button variant="outline">View Projects</Button>
           </div>
         </SectionWrapper>
+         <WhatsAppFloatingButton />
       </main>
       <Footer />
     </>

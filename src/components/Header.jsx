@@ -11,7 +11,7 @@ const Header = () => {
     <header className="header">
       <div className="header-container">
         <NavLink to="/" className="logo">
-          YourName
+          Omar AlBarakeh
         </NavLink>
 
         <button
