@@ -1,0 +1,11 @@
+/* SectionWrapper.css */
+
+.section-wrapper {
+  padding: 5rem 1rem; /* Equivalent to py-20 px-4 */
+  scroll-margin-top: 100px; /* Ensures clean anchor scroll */
+}
+
+.section-content {
+  max-width: 960px; /* Equivalent to max-w-4xl */
+  margin: 0 auto;
+}
