@@ -76,13 +76,13 @@ const Footer = () => {
         {/* Bottom Section */}
         <div className="footer-bottom-row">
           <div className="footer-icons">
-            <a href="https://github.com/yourprofile" target="_blank" rel="noreferrer" aria-label="GitHub">
+            <a href="https://github.com/omar-albarakeh" target="_blank" rel="noreferrer" aria-label="GitHub">
               <FaGithub />
             </a>
-            <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noreferrer" aria-label="LinkedIn">
+            <a href="https://www.linkedin.com/in/omar-albarakeh/" target="_blank" rel="noreferrer" aria-label="LinkedIn">
               <FaLinkedin />
             </a>
-            <a href="mailto:your@email.com" aria-label="Email">
+            <a href="mailto:omaralbarakeh2@gmail.com" aria-label="Email">
               <FaEnvelope />
             </a>
           </div>
