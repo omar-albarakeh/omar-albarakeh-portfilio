@@ -23,11 +23,11 @@ const Footer = () => {
     }
 
     emailjs.send(
-      'YOUR_SERVICE_ID',
-      'YOUR_TEMPLATE_ID',
-      { email },
-      'YOUR_PUBLIC_KEY'
-    )
+  'service_twafpoj',
+  'template_enzqui8',
+  { email }
+)
+
     .then(() => {
       setSubscribed(true);
       setError('');
